@@ -89,7 +89,9 @@
             "scripts": [],
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+							"src/oidc-silent-refresh/index.html",
+							"src/oidc-silent-refresh/oidc-client.min.js"
             ]
           }
         },

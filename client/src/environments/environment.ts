@@ -9,7 +9,7 @@ export const environment = {
 		redirect_uri: 'http://localhost:4200/auth-callback',
 		post_logout_redirect_uri: 'https://localhost:4200/',
 		silent_redirect_uri: 'https://localhost:4200/oidc-silent-refresh/index.html',
-		client_id: 'calendar'
+		client_id: 'dscribe'
 	},
 	apiServerRoot:  'http://localhost:5000/'
 };
